@@ -1,0 +1,113 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite--icon-basket {
+    width: 15px;
+    height: 15px;
+    background-position: -25px -25px;
+}
+
+.sprite--icon-basket-copy-2 {
+    width: 15px;
+    height: 15px;
+    background-position: -25px -90px;
+}
+
+.sprite--icon-basket-copy-3 {
+    width: 15px;
+    height: 15px;
+    background-position: -25px -155px;
+}
+
+.sprite-academ {
+    width: 199px;
+    height: 68px;
+    background-position: -25px -220px;
+}
+
+.sprite-academ1 {
+    width: 199px;
+    height: 68px;
+    background-position: -25px -338px;
+}
+
+.sprite-borod {
+    width: 209px;
+    height: 86px;
+    background-position: -25px -456px;
+}
+
+.sprite-borod1 {
+    width: 209px;
+    height: 90px;
+    background-position: -25px -592px;
+}
+
+.sprite-glu {
+    width: 198px;
+    height: 37px;
+    background-position: -25px -732px;
+}
+
+.sprite-glu1 {
+    width: 198px;
+    height: 37px;
+    background-position: -25px -819px;
+}
+
+.sprite-icon-facebook {
+    width: 62px;
+    height: 63px;
+    background-position: -25px -906px;
+}
+
+.sprite-icon-facebookActive {
+    width: 62px;
+    height: 62px;
+    background-position: -25px -1019px;
+}
+
+.sprite-icon-facebookHover {
+    width: 62px;
+    height: 62px;
+    background-position: -25px -1131px;
+}
+
+.sprite-icon-instagramm {
+    width: 62px;
+    height: 63px;
+    background-position: -25px -1243px;
+}
+
+.sprite-icon-instagrammActive {
+    width: 62px;
+    height: 62px;
+    background-position: -25px -1356px;
+}
+
+.sprite-icon-instagrammHover {
+    width: 62px;
+    height: 62px;
+    background-position: -25px -1468px;
+}
+
+.sprite-icon-vk {
+    width: 63px;
+    height: 63px;
+    background-position: -25px -1580px;
+}
+
+.sprite-icon-vkActive {
+    width: 63px;
+    height: 62px;
+    background-position: -25px -1693px;
+}
+
+.sprite-icon-vkHover {
+    width: 63px;
+    height: 62px;
+    background-position: -25px -1805px;
+}
